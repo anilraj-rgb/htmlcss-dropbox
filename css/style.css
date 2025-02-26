@@ -258,3 +258,15 @@
     margin-right: 5px;
   }
   /* /PREZZI */
+
+   /* ENTERPRISE */  
+.container.enterprise {
+    height: 160px;
+    border: 1px lightgrey solid;
+  }
+  
+  .bt-enterprise {
+    margin-top: 20px;
+    margin-right: 20px; 
+  }
+  /* / ENTERPRISE */
